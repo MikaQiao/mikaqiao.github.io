@@ -15,10 +15,10 @@ My primary research interest lies in designing, developing, optimizing, and depl
 
 Education
 ======
-:mortar_board: PhD in Bioinformatics, 2017-2021, <span style="color:grey">Shanghai Jiao Tong University</span> \
-:mortar_board: MS in Bioinformatics, 2014-2017, <span style="color:grey">Fudan University</span> \
-:mortar_board: Exchange Student, 2013-2014, <span style="color:grey">Tuebingen University</span>
-:mortar_board: BE in Bioinformatics, 2010-2014, <span style="color:grey">Tongji University</span>
+PhD in Bioinformatics, 2017-2021, <span style="color:grey">Shanghai Jiao Tong University</span> \
+MS in Bioinformatics, 2014-2017, <span style="color:grey">Fudan University</span> \
+Exchange Student, 2013-2014, <span style="color:grey">Tuebingen University</span> \
+BE in Bioinformatics, 2010-2014, <span style="color:grey">Tongji University</span>
 
 
 Visits
