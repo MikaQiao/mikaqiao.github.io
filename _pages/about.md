@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Mika’s personal websites"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,12 +15,13 @@ My primary research interest lies in designing, developing, optimizing, and depl
 
 Education
 ======
-PhD in Bioinformatics, 2017-2021, <span style="color:grey">Shanghai Jiao Tong University</span> \
-MS in Bioinformatics, 2014-2017, <span style="color:grey">Fudan University</span> \
-Exchange Student, 2013-2014, <span style="color:grey">Tuebingen University</span> \
-BE in Bioinformatics, 2010-2014, <span style="color:grey">Tongji University</span>
+- Ph.D in Bioinformatics, 2017-2021, <span style="color:grey">Shanghai Jiao Tong University</span> \
+- M.S. in Bioinformatics, 2014-2017, <span style="color:grey">Fudan University</span> \
+- Exchange Student, 2013-2014, <span style="color:grey">Tuebingen University</span> \
+- B.E. in Bioinformatics, 2010-2014, <span style="color:grey">Tongji University</span>
 
 
 Visits
 ------
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=5ee2ff&w=400&t=tt&d=5De8UX9TDFsVQrQw4cE3CBhNblYyl2vQbk42qsTB9Fw&co=ffffff&cmo=d99cff&cmn=ffa3b9&ct=808080"></script>
+<!-- https://clustrmaps.com/add -->
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=oLrFLM-BkUe13oZgTN409lRKpfrWpTy-kFZirFLeChU"></script>
