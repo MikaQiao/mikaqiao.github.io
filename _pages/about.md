@@ -15,13 +15,13 @@ My primary research interest lies in designing, developing, optimizing, and depl
 
 Education
 ======
-- Ph.D in Bioinformatics, 2017-2021, <span style="color:grey">Shanghai Jiao Tong University</span> \
-- M.S. in Bioinformatics, 2014-2017, <span style="color:grey">Fudan University</span> \
-- Exchange Student, 2013-2014, <span style="color:grey">Tuebingen University</span> \
+- Ph.D in Bioinformatics, 2017-2021, <span style="color:grey">Shanghai Jiao Tong University</span>
+- M.S. in Bioinformatics, 2014-2017, <span style="color:grey">Fudan University</span>
+- Exchange Student, 2013-2014, <span style="color:grey">Tuebingen University</span>
 - B.E. in Bioinformatics, 2010-2014, <span style="color:grey">Tongji University</span>
 
 
 Visits
 ------
 <!-- https://clustrmaps.com/add -->
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=oLrFLM-BkUe13oZgTN409lRKpfrWpTy-kFZirFLeChU"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oLrFLM-BkUe13oZgTN409lRKpfrWpTy-kFZirFLeChU&cl=ffffff&w=a"></script>
